@@ -83,6 +83,7 @@ public class MainActivity extends ListActivity {
         mConnectedListener = mFirebaseRef.getRoot().child(".info/connected").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
+
                 boolean connected = (Boolean) dataSnapshot.getValue();
                 if (connected) {
                     Toast.makeText(MainActivity.this, "Connected to Firebase", Toast.LENGTH_SHORT).show();
@@ -125,6 +126,8 @@ public class MainActivity extends ListActivity {
             // Create a new, auto-generated child of that chat location, and save our chat data there
             mFirebaseRef.push().setValue(chat);
             inputText.setText("");
+
+
         }
     }
 }

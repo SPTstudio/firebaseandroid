@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Toast;
 
 import com.firebase.client.ChildEventListener;
 import com.firebase.client.DataSnapshot;
@@ -16,6 +17,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 
 /**
  * @author greg
@@ -84,6 +86,7 @@ public abstract class FirebaseListAdapter<T> extends BaseAdapter {
 
             @Override
             public void onChildChanged(DataSnapshot dataSnapshot, String s) {
+
                 // One of the mModels changed. Replace it in our list and name mapping
                 String key = dataSnapshot.getKey();
                 T newModel = dataSnapshot.getValue(FirebaseListAdapter.this.mModelClass);
@@ -92,6 +95,7 @@ public abstract class FirebaseListAdapter<T> extends BaseAdapter {
                 mModels.set(index, newModel);
 
                 notifyDataSetChanged();
+                Log.e("prueba","cambio el proceso");
             }
 
             @Override
