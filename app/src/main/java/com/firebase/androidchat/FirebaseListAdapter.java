@@ -23,13 +23,13 @@ import java.util.Map;
  * @author greg
  * @since 6/21/13
  *
- * This class is a generic way of backing an Android ListView with a Firebase location.
- * It handles all of the child events at the given Firebase location. It marshals received data into the given
- * class type. Extend this class and provide an implementation of <code>populateView</code>, which will be given an
- * instance of your list item mLayout and an instance your class that holds your data. Simply populate the view however
- * you like and this class will handle updating the list as the data changes.
- *
- * @param <T> The class type to use as a model for the data contained in the children of the given Firebase location
+ * Esta clase es una forma genérica de respaldar a un ListView Android con una ubicación Firebase.
+  * Maneja todos los niños eventos en la ubicación Firebase dado. Se mariscales recibido datos en el dado
+  * Tipo de clase. Extender esta clase y proporcionar una implementación de <code> populateView </ code>, que será entregado un
+  * Instancia de su elemento de la lista mLayout y una instancia de su clase que posee sus datos. Simplemente llenar la vista sin embargo
+  * Te gusta y esta clase se encargará de la actualización de la lista como los cambios de datos.
+  *
+  *param <T> El tipo de clase que se utiliza como modelo para los datos contenidos en los hijos de la ubicación Firebase dada
  */
 public abstract class FirebaseListAdapter<T> extends BaseAdapter {
 
@@ -80,7 +80,7 @@ public abstract class FirebaseListAdapter<T> extends BaseAdapter {
                         mKeys.add(nextIndex, key);
                     }
                 }
-
+                Log.e("prueba","add el proceso");
                 notifyDataSetChanged();
             }
 

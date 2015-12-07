@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sandro/Desktop/SPT/AndroidChat/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,55 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 58,
+                        "endOffset": 260
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -39,9 +87,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 200,
+                        "startOffset": 206,
                         "endColumn": 58,
-                        "endOffset": 254
+                        "endOffset": 260
                     }
                 }
             }

@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.0.3_cf5fcc22908a87503dd713847af0f9c91ad35a95.jar" />
+    </item>
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_7c9df456efaf7dfa38359c76dfe79706da1a880b.jar" />
+    </item>
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/tubesock-0.0.10_81322c1b217b9b65020e2b7daf9aeeda627c08d6.jar" />
+    </item>
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_1675b26a6a6a4d9d9aefe784f4231e6c60b6ed6c.jar" />
+    </item>
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_cd52ecbd896407cd43a4f5b559302a468f23bd64.jar" />
+    </item>
+    <item
+        jar="/Users/sandro/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056">
+        <dex dex="/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.0.3_7865b08455bcbc048aec4a299f38602c9a6a3675.jar" />
+    </item>
+
+</items>

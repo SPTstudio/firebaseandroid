@@ -1,7 +1,15 @@
 [
     {
-        "merged": "/Users/sandro/Desktop/SPT/AndroidChat/app/build/intermediates/res/merged/debug/layout/chat_message.xml",
-        "source": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/layout/chat_message.xml"
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\layout\\chat_message.xml"
+    },
+    {
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\layout\\chat_message.xml"
     },
     {
         "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
@@ -12,7 +20,15 @@
         "source": "/Users/sandro/Desktop/SPT/firebaseandroid/app/src/main/res/layout/chat_message.xml"
     },
     {
-        "merged": "/Users/sandro/Desktop/SPT/AndroidChat/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message.xml",
+        "source": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\layout\\chat_message.xml"
     }
 ]

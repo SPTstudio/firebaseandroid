@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 89,
+                        "startOffset": 92,
                         "endColumn": 57,
-                        "endOffset": 142
+                        "endOffset": 145
                     }
                 }
             },
@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 147,
+                        "startOffset": 151,
                         "endColumn": 55,
-                        "endOffset": 198
+                        "endOffset": 202
                     }
                 }
             },
@@ -53,9 +53,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 50,
-                        "endOffset": 102
+                        "endOffset": 105
                     }
                 }
             },
@@ -73,10 +73,10 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 186,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 472
+                        "endOffset": 484
                     }
                 }
             },
@@ -94,17 +94,17 @@
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 510,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 665
+                        "endOffset": 682
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "/Users/sandro/Desktop/SPT/AndroidChat/app/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -115,7 +115,111 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\dev\\firebaseandroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -134,7 +238,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -153,7 +257,7 @@
                     "endOffset": 215
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values/strings.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -173,7 +277,7 @@
                     "endOffset": 506
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values/styles.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -194,7 +298,111 @@
                     "endOffset": 666
                 },
                 "from": {
-                    "file": "/Users/sandro/Desktop/SPT/AndroidChat/app/src/main/res/values/styles.xml",
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\AndroidChat\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/sandro/Desktop/SPT/firebaseandroid/D:\\Users\\sandro\\Desktop\\SPT\\firebaseandroid\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
